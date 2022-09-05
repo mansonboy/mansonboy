@@ -30,6 +30,7 @@
 
 ### ⚡ Fun fact:
 * Le dessin (papier et tablette graphique), le cinéma, les voyages
+* Projet en cour : Apprentisage de la guitare
 
 <!--
 - 🔭 I’m currently working on ...
