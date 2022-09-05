@@ -44,7 +44,9 @@
 
 ### ⚡ Loisir:
 * Le dessin (papier et tablette graphique), le cinéma, les voyages
+* Les challenges informatique
 * Projet en cour : Apprentisage de la guitare
+
 
 <!--
 - 🔭 I’m currently working on ...
