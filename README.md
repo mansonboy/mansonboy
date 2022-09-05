@@ -12,7 +12,7 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 [meteo API](https://github.com/mansonboy/meteo-API)✅
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
-Pokédex dynamique ✅
+[pokédex dynamique](https://github.com/mansonboy/pokedex) ✅
 - ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Calendrier ✅
 - ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Portfolio ✅
 - ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Site web sur des challenges informatique  ⚠️
