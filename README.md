@@ -8,6 +8,10 @@
 - [Portfolio](https://daurelthomas.fr)
 - En cours de création : Challenger, un site regroupant divers challenges informatique
 
+### 📌 Projets
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
+Météo avec API
+
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
