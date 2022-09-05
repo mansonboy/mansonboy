@@ -10,7 +10,13 @@
 
 ### 📌 Projets
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
-Météo avec API
+Météo avec API ✅
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
+Pokédex dynamique ✅
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Calendrier ✅
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Portfolio ✅
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Site web sur des challenges informatique  ⚠️
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) API liste de course  ⚠️
 
 
 ### ⚡ Technologies
