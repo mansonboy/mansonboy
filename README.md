@@ -1,10 +1,10 @@
 ## Hello World ! 👋
 
-### Qui suis-je ? 👨‍💻
+### 💻 Qui suis-je ? 
 - Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web. 
 - Passionné par l'informatique, la programmation et les nouvelles technologies
 
-### Dernières News
+### 🚀 Dernières News
 - [Portfolio](https://365idees.jf-blog.fr/adopte-un-introverti)
 - En cours de création : Challenger, un site regroupant divers challenges informatique
 
