@@ -1,5 +1,8 @@
 
-## Hello World ! 👋
+<h3 align="center">
+  Bienvenue sur le profil de Daurel Thomas!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ### 💻 Qui suis-je ? 
 - Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web. 
