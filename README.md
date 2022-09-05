@@ -5,7 +5,7 @@
 - Passionné par l'informatique, la programmation et les nouvelles technologies
 
 ### 🚀 Dernières News
-- [Portfolio](https://365idees.jf-blog.fr/adopte-un-introverti)
+- [Portfolio](https://daurelthomas.fr)
 - En cours de création : Challenger, un site regroupant divers challenges informatique
 
 
