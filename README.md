@@ -1,21 +1,13 @@
 ## Hello World ! 👋
 
-### Qui suis-je ?
-- Je m'appelle Guillaume RICHARD, et je suis actuellement Développeur Web (+ 10 ans d'expériences).
-- 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques et les bonnes pratiques Opquast ...
+### Qui suis-je ? 👨‍💻
+- Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web. 
+- Passionné par l'informatique, la programmation et les nouvelles technologies
 
 ### Dernières News
-- 🌱 Obtention de la [certification Opquast](https://www.opquast.com/).
-- Note finale : 865/1000 [Niveau AVANCÉ](https://directory.opquast.com/fr/certificat/8AWHQT/)
+-[Portfolio](https://365idees.jf-blog.fr/adopte-un-introverti)
+-En cours de création : Challenger, un site regroupant divers challenges informatique
 
-### 📕 Blog Divers
-<!-- BLOG-POST-LIST:START -->
-- [Adopte un introverti](https://365idees.jf-blog.fr/adopte-un-introverti)
-- [Lodash est mort. Vive Radash.](https://guillaume-richard.fr/lodash-est-mort-vive-radash/)
-- [Cartographie 3D des métros mondiaux](https://365idees.jf-blog.fr/cartographie-3d-des-metros-mondiaux)
-- [Créer des commandes cli pour Symfony](https://guillaume-richard.fr/creer-des-commandes-cli-pour-symfony/)
-- [Redesign tes sites web préférés avec Stylus](https://jf-blog.fr/redesign-tes-sites-web-preferes-avec-stylus/)
-<!-- BLOG-POST-LIST:END -->
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,17 +15,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress)
 ![Laravel](https://img.shields.io/badge/-laravel-23FF2D?style=flat-square&logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-orange?style=flat-square&logo=CodeIgniter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jquery-230769?style=flat-square&logo=jquery)
-![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
+![Python](https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
 
 ### 📫 Comment me joindre ? me parler ? me suivre ?
 * [@gjfrichard - Portfolio](https://guillaume-richard.fr/)
