@@ -6,7 +6,7 @@
 
 ### Dernières News
 -[Portfolio](https://365idees.jf-blog.fr/adopte-un-introverti)
--En cours de création : Challenger, un site regroupant divers challenges informatique
+-[Challenger] En cours de création : Challenger, un site regroupant divers challenges informatique
 
 
 ### ⚡ Technologies
