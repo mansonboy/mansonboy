@@ -40,7 +40,7 @@
 
 ### 📫 Comment me joindre ? 
 * [@Portfolio](https://daurelthomas.fr/)
-* [@Linkedin](https://www.linkedin.com/in/thomas-daurel-09437b236))
+* [@Linkedin](https://www.linkedin.com/in/thomas-daurel-09437b236)
 
 ### ⚡ Loisir:
 * Le dessin (papier et tablette graphique), le cinéma, les voyages
