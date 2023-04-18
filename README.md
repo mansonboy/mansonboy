@@ -12,6 +12,9 @@
 - [Portfolio](https://daurelthomas.fr)
 - En cours de création : Challenger, un site regroupant divers challenges informatique
 
+### 📈 Classement CTF
+- <a href=https://www.newbiecontest.org/index.php?page=info_membre&id=896> Newbie Contest
+
 ### 📌 Projets
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 [meteo API](https://github.com/mansonboy/meteo-API)✅
@@ -43,9 +46,8 @@
 * [@Linkedin](https://www.linkedin.com/in/thomas-daurel-09437b236)
 
 ### ⚡ Loisir:
+* Les CTF
 * Le dessin (papier et tablette graphique), le cinéma, les voyages
-* Les challenges informatique
-* Projet en cour : Apprentisage de la guitare
 
 
 <!--
