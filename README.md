@@ -13,7 +13,7 @@
 - En cours de création : Challenger, un site regroupant divers challenges informatique
 
 ### 📈 Classement CTF
-- [I'm an inline-style link](https://www.newbiecontest.org/index.php?page=info_membre&id=896)
+- [Newbie contest](https://www.newbiecontest.org/index.php?page=info_membre&id=896)
 
 
 ### 📌 Projets
