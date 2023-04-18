@@ -12,24 +12,24 @@
 - [Portfolio](https://daurelthomas.fr)
 
 
-### 📈 Classement CTF
+### 📈 Ranking CTF
 - [Root Me](https://www.root-me.org/mansonboy-337824?lang=fr)
 - [Try hack me](https://tryhackme.com/p/mansonboy)
 - [Hack The Box](https://app.hackthebox.com/users/1437236)
 - [Newbie contest](https://www.newbiecontest.org/index.php?page=info_membre&id=896)
 
-### 📌 Projets
+### 📌 project
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 [meteo API](https://github.com/mansonboy/meteo-API)✅
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 [pokédex dynamique](https://github.com/mansonboy/pokedex) ✅
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Calendrier ✅
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Calendar ✅
 - ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Portfolio ✅
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Site web sur des challenges informatique  ⚠️
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) API liste de course  ⚠️
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Website CTF  ⚠️
+- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) API list of shopping  ⚠️
 
 
-### ⚡ Technologies
+### ⚡ technology
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -43,20 +43,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 ![Python](https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 📫 Comment me joindre ? 
+### 📫 How do I join?
 * [@Portfolio](https://daurelthomas.fr/)
 * [@Linkedin](https://www.linkedin.com/in/thomas-daurel-09437b236)
 
-### ⚡ Loisir:
-* Les CTF
-* Le dessin (papier et tablette graphique), le cinéma, les voyages
+### ⚡ Leisure:
+* The CTF
+* Drawing (paper and graphic tablet), cinema, travel
 
-
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
