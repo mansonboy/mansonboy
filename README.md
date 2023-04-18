@@ -5,7 +5,7 @@
 </h3>
 
 ### 💻 Qui suis-je ? 
-- Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web. 
+- Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web et passionné par la sécurité informatique
 - Passionné par l'informatique, la programmation et les nouvelles technologies
 
 ### 🚀 Dernières News
