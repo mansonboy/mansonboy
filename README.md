@@ -9,8 +9,9 @@
 - Passionné par l'informatique, la programmation et les nouvelles technologies
 
 ### 🚀 Dernières News
+- [Chalenger](https://devflix.fr/) (en cours de création) Site web avec des épreuves informatique 
 - [Portfolio](https://daurelthomas.fr)
-- En cours de création : Challenger, un site regroupant divers challenges informatique
+
 
 ### 📈 Classement CTF
 - [Root Me](https://www.root-me.org/mansonboy-337824?lang=fr)
