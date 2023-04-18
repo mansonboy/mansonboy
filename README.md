@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-### 💻 Qui suis-je ? 
-- Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web et passionné par la sécurité informatique
+### 💻 Who I am ? 
+- My name is Thomas Daurel, I am currently a Web Developer and I am passionate about cyber security
 
-### 🚀 Dernières News
-- [Chalenger](https://devflix.fr/) (en cours de création) Site web avec des épreuves informatique 
+### 🚀 Last News
+- [Chalenger](https://devflix.fr/) (In creation) Website CTF 
 - [Portfolio](https://daurelthomas.fr)
 
 
