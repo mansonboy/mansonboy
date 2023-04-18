@@ -6,7 +6,6 @@
 
 ### 💻 Qui suis-je ? 
 - Je m'appelle Thomas Daurel, et je suis actuellement Développeur Web et passionné par la sécurité informatique
-- Passionné par l'informatique, la programmation et les nouvelles technologies
 
 ### 🚀 Dernières News
 - [Chalenger](https://devflix.fr/) (en cours de création) Site web avec des épreuves informatique 
