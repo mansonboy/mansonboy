@@ -43,9 +43,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 ![Python](https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-the-badge&logo=react&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-the-badge&logo=kalilinux&logoColor=white)
 
 ### 📫 How do I join?
 * [@Portfolio](https://daurelthomas.fr/)
