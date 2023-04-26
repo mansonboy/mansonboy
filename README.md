@@ -15,7 +15,8 @@
 ### 📈 Ranking CTF
 - [Root Me](https://www.root-me.org/mansonboy-337824?lang=fr)
 - [Try hack me](https://tryhackme.com/p/mansonboy)
-<script src="https://tryhackme.com/badge/1782861"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/mansonboy.png" alt="TryHackMe">
+
 
 
 - [Hack The Box](https://app.hackthebox.com/users/1437236)
