@@ -1,4 +1,4 @@
-
+<script src="https://tryhackme.com/badge/1782861"></script>
 <h3 align="center">
   Welcome to Daurel Thomas's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -14,7 +14,7 @@
 
 ### 📈 Ranking CTF
 - [Root Me](https://www.root-me.org/mansonboy-337824?lang=fr)
-- [Try hack me](https://tryhackme.com/p/mansonboy)<img src="https://tryhackme-badges.s3.amazonaws.com/mansonboy.png" alt="TryHackMe">
+- [Try hack me](https://tryhackme.com/p/mansonboy)
 - [Hack The Box](https://app.hackthebox.com/users/1437236)
 - [Newbie contest](https://www.newbiecontest.org/index.php?page=info_membre&id=896)
 
