@@ -7,7 +7,7 @@
 - My name is Thomas Daurel, I am currently a Web Developer and I am passionate about cyber security
 
 ### 🚀 Last News
-- [Chalenger](https://devflix.fr/) (In creation) Website CTF 
+- [Chalenger](https://thechallenger.fr/)) (In creation) Website CTF 
 - [Portfolio](https://daurelthomas.fr)
 
 
