@@ -49,7 +49,7 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-the-badge&logo=kalilinux&logoColor=white)
 
 ### 📫 How do I join?
-* [@Portfolio](https://daurelthomas.fr/)
+* [@Portfolio](https://devflix.fr/)
 * [@Linkedin](https://www.linkedin.com/in/thomas-daurel-09437b236)
 
 ### ⚡ Leisure:
