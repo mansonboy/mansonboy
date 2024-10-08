@@ -24,10 +24,6 @@
 [meteo API](https://github.com/mansonboy/meteo-API)✅
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 [pokédex dynamique](https://github.com/mansonboy/pokedex) ✅
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Calendar ✅
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Portfolio ✅
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) Website CTF  ⚠️
-- ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) API list of shopping  ⚠️
 
 
 ### ⚡ technology
